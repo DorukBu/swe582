@@ -8,6 +8,7 @@
 #             -> Print out number of iterations, final weight vector and plot the datapoints as well as decision boundary
 #             -> Train perceptrons on same dataset (small dataset) and print out final model vector each time for comparison
 #             * The datasets in .npy format should be placed inside the working directory
+#             Acknowledgement: Generative AI is used to generate plotting style and functions
 
 import numpy as np
 from random import choice
