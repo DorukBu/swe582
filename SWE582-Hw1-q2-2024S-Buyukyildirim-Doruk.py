@@ -3,11 +3,7 @@
 # DATE:       16.04.2024
 # SUMMARY:    SPRING 2024 SWE582 - SWE 582: Sp. Tp. Machine Learning for Data Analytic Homework #1 Question 2 Due April 16, 2024 by 23:59
 #             This Python code does the following:
-#             -> Load 2 different data sets* of 3-D (including bias terms) data and correstponding labels of 2 classes (minus 1 & plus 1)
-#             -> Train 2 perceptrons using PLA for both datasets
-#             -> Print out number of iterations, final weight vector and plot the datapoints as well as decision boundary
-#             -> Train perceptrons on same dataset (small dataset) and print out final model vector each time for comparison
-#             * The datasets in .npy format should be placed inside the working directory
+#             -> Runs Gradient descent with regularized and non regularized data and compares the performance of both logistic regression methods 
 
 import numpy as np
 from scipy.io import arff
