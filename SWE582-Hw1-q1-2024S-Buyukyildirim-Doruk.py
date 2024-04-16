@@ -1,7 +1,7 @@
 # NAME:       Doruk Büyükyıldırım
 # STUDENT ID: 2022719033
 # DATE:       16.04.2024
-# SUMMARY:    SPRING 2024 SWE582 - SWE 582: Sp. Tp. Machine Learning for Data Analytic Homework #1 Due April 16, 2024 by 23:59
+# SUMMARY:    SPRING 2024 SWE582 - SWE 582: Sp. Tp. Machine Learning for Data Analytic Homework #1 Question 2 Due April 16, 2024 by 23:59
 #             This Python code does the following:
 #             -> Load 2 different data sets* of 3-D (including bias terms) data and correstponding labels of 2 classes (minus 1 & plus 1)
 #             -> Train 2 perceptrons using PLA for both datasets
