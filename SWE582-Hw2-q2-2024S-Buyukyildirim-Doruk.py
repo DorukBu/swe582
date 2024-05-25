@@ -1,7 +1,7 @@
 # NAME:       Doruk Büyükyıldırım
 # STUDENT ID: 2022719033
 # DATE:       25.05.2024
-# SUMMARY:    SPRING 2024 SWE582 - SWE 582: Sp. Tp. Machine Learning for Data Analytic Homework #2 Question 1 Due May 26, 2024 by 23:59
+# SUMMARY:    SPRING 2024 SWE582 - SWE 582: Sp. Tp. Machine Learning for Data Analytic Homework #2 Question 2 Due May 26, 2024 by 23:59
 #             This Python code does the following:
 #             -> Plots the data using a scatter plot, assigning different colors to different labels.
 #             -> Implements k-means algorithm from scratch, using the Euclidean distance as the distance metric.
